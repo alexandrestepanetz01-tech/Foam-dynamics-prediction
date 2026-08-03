@@ -3,7 +3,7 @@
 This project contains the python code used for the resaerch paper: Predicting Plasticity in Two-Dimensional Foam Channel Flow Around an Obstacle. This work was done by myself, Alexandre Stepanetz and Bahaa Mazloum, Benjamin Dollet and Misaki Ozawa at the LIPhy laboratory in Grenoble.
 
 The goal is to predict the future dynamics of a dense and amorphous simulated particle system using machine learning techniques. You can find data at the folloing link:
-https:/zenodo.orgrecords/21774620preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjM3M2JjNDgyLWFkYjAtNDhjOS05ZTU3LWE2MmRkYWJmYjk0NyIsImRhdGEiOnt9LCJyYW5kb20iOiIwZmY5YTdkYWRjNTk5YTMwMDhiMzRiMTNhMDY2NGQ3NiJ9.FnfvtRxgKFgVrNHiCaiMj4yTVWuJFE2IYt8GaXd_P1l9-9hDfMtLJcqgUPYsSHtAi2_UH2-2wOqdkMAZzxTbpw
+https://zenodo.org/records/21774620?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjM3M2JjNDgyLWFkYjAtNDhjOS05ZTU3LWE2MmRkYWJmYjk0NyIsImRhdGEiOnt9LCJyYW5kb20iOiIwZmY5YTdkYWRjNTk5YTMwMDhiMzRiMTNhMDY2NGQ3NiJ9.FnfvtRxgKFgVrNHiCaiMj4yTVWuJFE2IYt8GaXd_P1l9-9hDfMtLJcqgUPYsSHtAi2_UH2-2wOqdkMAZzxTbpw
 
 ## The environnement
 
